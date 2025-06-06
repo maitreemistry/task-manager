@@ -69,6 +69,7 @@ export default function App() {
       {/* <Header /> */}
       <div style={containerStyle}>
         <nav style={navStyle}>
+          <h1>new pull request</h1>
           <Link to="/" style={navLinkStyle}>Home</Link>
           <Link to="/tasks" style={navLinkStyle}>Tasks</Link>
           <Link to="/add" style={navLinkStyle}>Add Task</Link>
